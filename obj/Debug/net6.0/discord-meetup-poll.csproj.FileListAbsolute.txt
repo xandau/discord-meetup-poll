@@ -1,0 +1,15 @@
+C:\Users\beni7\Documents\Program Snas\discord-meetup-poll\bin\Debug\net6.0\discord-meetup-poll.exe
+C:\Users\beni7\Documents\Program Snas\discord-meetup-poll\bin\Debug\net6.0\discord-meetup-poll.deps.json
+C:\Users\beni7\Documents\Program Snas\discord-meetup-poll\bin\Debug\net6.0\discord-meetup-poll.runtimeconfig.json
+C:\Users\beni7\Documents\Program Snas\discord-meetup-poll\bin\Debug\net6.0\discord-meetup-poll.dll
+C:\Users\beni7\Documents\Program Snas\discord-meetup-poll\bin\Debug\net6.0\discord-meetup-poll.pdb
+C:\Users\beni7\Documents\Program Snas\discord-meetup-poll\obj\Debug\net6.0\discord-meetup-poll.csproj.AssemblyReference.cache
+C:\Users\beni7\Documents\Program Snas\discord-meetup-poll\obj\Debug\net6.0\discord-meetup-poll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beni7\Documents\Program Snas\discord-meetup-poll\obj\Debug\net6.0\discord-meetup-poll.AssemblyInfoInputs.cache
+C:\Users\beni7\Documents\Program Snas\discord-meetup-poll\obj\Debug\net6.0\discord-meetup-poll.AssemblyInfo.cs
+C:\Users\beni7\Documents\Program Snas\discord-meetup-poll\obj\Debug\net6.0\discord-meetup-poll.csproj.CoreCompileInputs.cache
+C:\Users\beni7\Documents\Program Snas\discord-meetup-poll\obj\Debug\net6.0\discord-meetup-poll.dll
+C:\Users\beni7\Documents\Program Snas\discord-meetup-poll\obj\Debug\net6.0\refint\discord-meetup-poll.dll
+C:\Users\beni7\Documents\Program Snas\discord-meetup-poll\obj\Debug\net6.0\discord-meetup-poll.pdb
+C:\Users\beni7\Documents\Program Snas\discord-meetup-poll\obj\Debug\net6.0\discord-meetup-poll.genruntimeconfig.cache
+C:\Users\beni7\Documents\Program Snas\discord-meetup-poll\obj\Debug\net6.0\ref\discord-meetup-poll.dll
